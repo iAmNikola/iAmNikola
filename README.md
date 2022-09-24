@@ -5,7 +5,7 @@ I am a software engineering student and an intern at [@aetherinc](https://github
 
 - 🔭 I'm interested in AI, ML and everything Python
 - ✈️ I fly a DJI Mini 2 from time to time 
-- 🌱 I’m currently learning C++ and video production in Adobe Premiere
+- 🌱 I’m currently learning C++, OpenGL and video production in Adobe Premiere
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/iamnikoladamjanovic/) or by [email](mailto:iamnikoladamjanovic@gmail.com)
 ---
 <p align = "center">

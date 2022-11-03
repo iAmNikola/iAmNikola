@@ -1,14 +1,30 @@
-<a href="https://www.linkedin.com/in/iamnikoladamjanovic" target="_blank" rel="nofollow"><img align="right" alt="Nikolakdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+### 👋 Hi there! 👋
 
-### Hi 👋 I'm Nikola!
-I am a software engineering student and an intern at [@aetherinc](https://github.com/aetherinc). 
+I'm Nikola. I'm 21 and in my final year of Bachelor's degree in software engineering. I'm currently an intern at [Wonder Dynamics](https://www.wonderdynamics.com/).
+
+### 🙋‍♂️ About me 🙋‍♂️
 
 - 🔭 I'm interested in AI, ML and everything Python
 - ✈️ I fly a DJI Mini 2 from time to time 
-- 🌱 I’m currently learning C++, OpenGL and video production in Adobe Premiere
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/iamnikoladamjanovic/) or by [email](mailto:iamnikoladamjanovic@gmail.com)
----
+- 🌱 I’m currently learning C++ and OpenGL
+- 📫 You can **reach me** on <a href="https://www.linkedin.com/in/iamnikoladamjanovic" target="_blank" rel="nofollow"><img alt="Nikola's LinkedIn" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> or by [email](mailto:iamnikoladamjanovic@gmail.com)
+
+<br>
+
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=iAmNikola&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=iAmNikola&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=iAmNikola&show_icons=true&theme=nightowl" width = 600>
 </p>
+
+### 👨‍💻 Languages 👨‍💻
+
+<img align="left" alt="Python" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+

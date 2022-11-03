@@ -10,10 +10,7 @@ I'm Nikola. I'm 21 and in my final year of Bachelor's degree in software enginee
 - 📫 You can **reach me** on <a href="https://www.linkedin.com/in/iamnikoladamjanovic" target="_blank" rel="nofollow"><img alt="Nikola's LinkedIn" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> or by [email](mailto:iamnikoladamjanovic@gmail.com)
 
 <br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=iAmNikola&show_icons=true&theme=nightowl" width = 600>
-</p>
+<img alt="Nikola's stats" src="https://github-readme-stats.vercel.app/api?username=iAmNikola&show_icons=true&theme=nightowl" width=600>
 
 ### 👨‍💻 Languages 👨‍💻
 

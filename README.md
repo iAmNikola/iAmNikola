@@ -1,6 +1,6 @@
 ### 👋 Hi there! 👋
 
-I'm Nikola. I'm 21 and in my final year of Bachelor's degree in software engineering. I'm currently an intern at [Wonder Dynamics](https://www.wonderdynamics.com/).
+I'm Nikola. I'm 22 and in my final year of Bachelor's degree in software engineering. I'm currently an intern at [Wonder Dynamics](https://www.wonderdynamics.com/).
 
 ### 🙋‍♂️ About me 🙋‍♂️
 
